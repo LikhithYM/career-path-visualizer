@@ -95,7 +95,6 @@ Enhance interactivity and user experience with:
 
 ## 📜 License
 
-MIT License
 
 ---
 
